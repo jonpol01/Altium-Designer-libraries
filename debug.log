@@ -1,0 +1,9 @@
+[1222/005605:ERROR:tcp_socket_win.cc(335)] bind() returned an error: ???????? ???????????????????? ??????????????? 1 ??????????? (0x2740)
+[1222/005605:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[1222/005742:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1222/005742:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {DF1EC3FB-E739-426F-BBD3-791A0B679718}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {DF1EC3FB-E739-426F-BBD3-791A0B679718}\BrowserCache\old_GPUCache_000
+[1222/005742:ERROR:cache_creator.cc(129)] Unable to create cache
+[1222/005742:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[1222/005743:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1222/005743:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {DF1EC3FB-E739-426F-BBD3-791A0B679718}\BrowserCache to C:\ProgramData\Altium\Altium Designer {DF1EC3FB-E739-426F-BBD3-791A0B679718}\old_BrowserCache_000
+[1222/005743:ERROR:cache_creator.cc(129)] Unable to create cache
